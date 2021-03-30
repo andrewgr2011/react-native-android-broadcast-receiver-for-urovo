@@ -1,0 +1,16 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ettingshausen">
+
+    <application>
+        <receiver
+            android:name="com.ettingshausen.ScannerBroadcastReceiver"
+            android:enabled="true"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.ACTION_DECODE_DATA"/>
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>
+  
