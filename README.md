@@ -2,7 +2,7 @@
 # react-native-android-broadcast-receiver-for-urovo
 
 ## Notice 
-> As static broadcast can't be receive on Android 8.0 above, `targetSdkVersion` should be 25 or lower.
+> As static broadcast can't be receive on Android 8.0 above, `targetSdkVersion` should be 29 or lower.
 
 ## Getting started
 
