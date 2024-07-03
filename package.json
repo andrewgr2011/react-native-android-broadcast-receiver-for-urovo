@@ -12,7 +12,7 @@
   "author": "ettingshausen",
   "license": "MIT",
   "peerDependencies": {
-    "react-native": "0.69.12"
+    "react-native": "0.71.0"
   },
   "repository": {
     "type": "git",
