@@ -10,7 +10,7 @@
 
 ### Mostly automatic installation
 
-`$ react-native link andrewgr2011-react-native-android-broadcast-receiver-for-urovo"`
+`$ react-native link andrewgr2011-react-native-android-broadcast-receiver-for-urovo`
 
 
 
