@@ -1,5 +1,5 @@
 
-# andrewgr2011-react-native-android-broadcast-receiver-for-urovo"
+# andrewgr2011/react-native-android-broadcast-receiver-for-urovo"
 
 ## Notice 
 > As static broadcast can't be receive on Android 8.0 above, `targetSdkVersion` should be 29 or lower.
@@ -10,7 +10,7 @@
 
 ### Mostly automatic installation
 
-`$ react-native link andrewgr2011-react-native-android-broadcast-receiver-for-urovo`
+`$ react-native link andrewgr2011/react-native-android-broadcast-receiver-for-urovo`
 
 
 
