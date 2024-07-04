@@ -1,5 +1,5 @@
 {
-  "name": "andrewgr2011/react-native-android-broadcast-receiver-for-urovo",
+  "name": "react-native-android-broadcast-receiver-for-urovo",
   "version": "1.0.1",
   "description": "This is a library for getting the content send by Urovo devices broadcast on scanner",
   "main": "index.js",
